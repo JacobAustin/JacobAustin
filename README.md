@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jacob, an <a href="https://linkedin.com/in/Jacob austin">IT Professional</a>☺</h1>
+<h1>Hi, I'm Jacob, an <a href="(https://www.linkedin.com/in/jacobantonioaustin/)">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
